@@ -12,5 +12,5 @@ My first JavaScript project! I created a small website that allows a user to dra
 ## Screenshots
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](etchASketchScreenshot.png)
 
